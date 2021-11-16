@@ -18,6 +18,6 @@
         public List<SamuraiBattle> SamuraiBattles { get; set; }
 
         // one to one     
-       // public Horse Horse { get; set; }
+        public Horse Horse { get; set; }
     }
 }
